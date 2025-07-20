@@ -22,14 +22,6 @@ Sempre quis entender como a tecnologia transforma o mundo. Esse repositório é 
 
 ---
 
-## 🔧 Tecnologias
-
-- Python 3.x
-- VS Code / Jupyter Notebook
-- Git e GitHub
-- Documentação oficial + Comunidade DIO
-
----
 
 ## 📈 Meu progresso
 
